@@ -1,0 +1,7 @@
+@import url("https://fonts.google.com/specimen/Montserrat");
+@import url("https://fonts.google.com/specimen/Fraunces");
+
+:root{
+    --color-primary-dark:hsl(158, 36%, 37%);
+    --color-primary-ligth:hsl(30, 38%, 92%);
+}
